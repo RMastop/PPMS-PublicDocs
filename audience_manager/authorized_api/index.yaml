@@ -1,6 +1,6 @@
 swagger: '2.0'
 info:
-  title: Public Audience Manager API
+  title: Authorized HTTP API
   description: |
     **Authentication required.**
   version: 'auto'
