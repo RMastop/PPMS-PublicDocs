@@ -17,4 +17,5 @@ Welcome to the Piwik PRO documentation for developers!
    sdk/index
    analytics/index
    audience_manager/index
+   tag_manager/index
    glossary
